@@ -1,0 +1,4 @@
+%{
+  "dep_from_git": {:git, "https://github.com/willferguson/waterpark.git", "b0a4c22f4762fd94a7fa3f8c710df9c5807f511d", [tag: "v0.1"]},
+  "waterpark": {:git, "https://github.com/willferguson/waterpark.git", "b0a4c22f4762fd94a7fa3f8c710df9c5807f511d", [tag: "v0.1"]},
+}
